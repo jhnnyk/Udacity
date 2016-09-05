@@ -1,0 +1,30 @@
+h3 {
+  font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+div {
+  border: 1px solid #ccc;
+}
+
+span {
+  font-weight: bold;
+}
+
+.container {
+  width: 300px;
+  padding: 0 15px 15px 15px;
+  box-shadow: 10px 10px 15px #ccc;
+}
+
+.info {
+  padding: 0 15px;
+  margin-top: 15px;
+}
+
+.interesting-fact {
+  font-style: italic;
+}
