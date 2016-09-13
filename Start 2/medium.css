@@ -1,0 +1,16 @@
+.content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.hero, .top-news {
+  width: 50%;
+}
+
+.scores {
+  width: 65%;
+}
+
+.weather {
+  width: 35%;
+}
