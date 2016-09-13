@@ -12,7 +12,7 @@ body {
 }
 
 h1, h2, h3, h4, h5 {
-  margin: 0; 
+  margin: 0;
 }
 
 header, nav, footer, section, article, div {
@@ -29,7 +29,7 @@ ul {
 /*
  *
  * Common
- * 
+ *
  */
 
 .news__more {
@@ -71,6 +71,14 @@ ul {
   margin: 0.5em 0.25em;
   display: inline-block;
   color: #212121;
+}
+
+#menu {
+  color: #777;
+  font-size: 20px;
+  float: right;
+  margin: 20px 20px 0 0;
+  display: none;
 }
 
 
@@ -223,7 +231,7 @@ main {
 
 .scores__table th,
 .scores__table td {
-  padding: 1em; 
+  padding: 1em;
 }
 
 .scores__table th {
